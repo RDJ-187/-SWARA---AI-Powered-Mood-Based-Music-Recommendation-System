@@ -81,6 +81,8 @@ swara/
 │   ├── images.html      # Visual selection interface
 │   ├── puzzle.html      # Behavioral puzzle interface
 │   └── auth/           # Authentication templates
+├── screenshots/         # Application screenshots
+│   └── README.md       # Screenshot guidelines
 └── README.md           # Project documentation
 ```
 
@@ -133,6 +135,48 @@ swara/
 - **Smooth Animations**: CSS transitions and hover effects
 - **Interactive Elements**: Dynamic feedback and real-time updates
 - **Accessibility**: Keyboard navigation and screen reader support
+
+## 📸 Screenshots
+
+### 🏠 Landing Page
+![Landing Page](screenshots/landing-page.png)
+*Welcome to SWARA - Discover your perfect soundtrack*
+
+### 👤 User Authentication
+![Signup Page](screenshots/signup-page.png)
+*Secure user registration with modern design*
+
+### 🎯 Dashboard
+![Dashboard](screenshots/dashboard.png)
+*Choose your preferred mood detection method*
+
+### 🧠 Mood Detection Methods
+
+#### Quiz Interface
+![Quiz Interface](screenshots/quiz-interface.png)
+*Interactive psychological assessment*
+
+#### Visual Selection
+![Visual Selection Instructions](screenshots/visual-selection-instructions.png)
+*Comprehensive 4-round visual mood analysis*
+
+![Visual Selection Round](screenshots/visual-selection-round.png)
+*Choose images that resonate with your emotions*
+
+#### Behavioral Puzzle
+![Puzzle Game](screenshots/puzzle-game.png)
+*Cognitive assessment through interactive puzzle*
+
+### 🎵 Results & Recommendations
+![Mood Results](screenshots/mood-results.png)
+*Accurate mood detection with confidence scoring*
+
+![Music Recommendations](screenshots/music-recommendations.png)
+*Personalized music suggestions with YouTube integration*
+
+### 📱 Mobile Responsive
+![Mobile Responsive](screenshots/mobile-responsive.png)
+*Seamless experience across all devices*
 
 ## 📱 Usage Guide
 
