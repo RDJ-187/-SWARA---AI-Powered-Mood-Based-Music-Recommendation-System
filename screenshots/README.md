@@ -4,12 +4,12 @@ This directory should contain screenshots of the SWARA application. Please add t
 
 ## Required Screenshots:
 
-### 1. `landing-page.png`
+### 1. `home.png`
 - **Description**: Main landing page with SWARA branding
 - **Content**: Orange theme, music notes animation, "Discover Your Perfect Soundtrack" heading
 - **Size**: 1200x800px recommended
 
-### 2. `signup-page.png`
+### 2. `sigin.png`
 - **Description**: User registration page
 - **Content**: Signup form with orange theme, floating music notes background
 - **Size**: 1200x800px recommended
@@ -19,12 +19,12 @@ This directory should contain screenshots of the SWARA application. Please add t
 - **Content**: Three method cards (Quiz, Visual Selection, Puzzle) with orange theme
 - **Size**: 1200x800px recommended
 
-### 4. `quiz-interface.png`
+### 4. `quiz.png`
 - **Description**: Mood quiz interface
 - **Content**: Question with 4 options, progress bar, orange theme
 - **Size**: 1200x800px recommended
 
-### 5. `visual-selection-instructions.png`
+### 5. `pic.png`
 - **Description**: Visual selection instructions page
 - **Content**: Instructions for 4-round selection process, orange theme
 - **Size**: 1200x800px recommended
@@ -34,7 +34,7 @@ This directory should contain screenshots of the SWARA application. Please add t
 - **Content**: 4 image cards for mood selection, progress indicator, orange theme
 - **Size**: 1200x800px recommended
 
-### 7. `puzzle-game.png`
+### 7. `game.png`
 - **Description**: Behavioral puzzle game interface
 - **Content**: 4x4 number grid, game stats, orange theme
 - **Size**: 1200x800px recommended

@@ -139,11 +139,11 @@ swara/
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](screenshots/home.png)
 *Welcome to SWARA - Discover your perfect soundtrack*
 
 ### 👤 User Authentication
-![Signup Page](screenshots/signup-page.png)
+![Signup Page](screenshots/sigin.png)
 *Secure user registration with modern design*
 
 ### 🎯 Dashboard
@@ -153,18 +153,18 @@ swara/
 ### 🧠 Mood Detection Methods
 
 #### Quiz Interface
-![Quiz Interface](screenshots/quiz-interface.png)
+![Quiz Interface](screenshots/quiz.png)
 *Interactive psychological assessment*
 
 #### Visual Selection
-![Visual Selection Instructions](screenshots/visual-selection-instructions.png)
+![Visual Selection Instructions](screenshots/pic.png)
 *Comprehensive 4-round visual mood analysis*
 
 ![Visual Selection Round](screenshots/visual-selection-round.png)
 *Choose images that resonate with your emotions*
 
 #### Behavioral Puzzle
-![Puzzle Game](screenshots/puzzle-game.png)
+![Puzzle Game](screenshots/game.png)
 *Cognitive assessment through interactive puzzle*
 
 ### 🎵 Results & Recommendations
